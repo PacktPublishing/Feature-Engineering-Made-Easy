@@ -41,5 +41,4 @@ Installing the Anaconda distribution is also recommended as it comes with most o
 
 * [Swift 3 New Features](https://www.packtpub.com/application-development/swift-3-new-features?utm_source=github&utm_medium=repository&utm_campaign=9781786469632)
 
-### Suggestions and Feedback
-[Click here](https://docs.google.com/forms/d/e/1FAIpQLSe5qwunkGf6PUvzPirPDtuy1Du5Rlzew23UBp2S-P3wB-GcwQ/viewform) if you have any feedback or suggestions.
+
